@@ -1,2 +1,3 @@
-# Voltz
-Voltz Community Modpack
+# Voltz Community Modpack
+
+## http://voltzmodpack.com
