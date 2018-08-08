@@ -1,0 +1,12 @@
+asm
+crash-reports
+data
+downloads
+logs
+resourcepacks
+saves
+.curseclient
+minecraftinstance.json
+usernamecache.json
+*.log
+*.dll
